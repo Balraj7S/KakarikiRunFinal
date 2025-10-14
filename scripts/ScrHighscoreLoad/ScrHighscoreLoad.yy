@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScrHighscoreLoad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScrHighscoreLoad",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
