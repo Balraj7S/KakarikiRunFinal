@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Extensions","order":1,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":3,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":2,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":4,"path":"folders/Objects.yy",},
+    {"name":"Particle Systems","order":9,"path":"folders/Particle Systems.yy",},
+    {"name":"Paths","order":10,"path":"folders/Paths.yy",},
+    {"name":"Rooms","order":6,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":7,"path":"folders/Scripts.yy",},
+    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
+    {"name":"Shaders","order":12,"path":"folders/Shaders.yy",},
+    {"name":"Sounds","order":8,"path":"folders/Sounds.yy",},
+    {"name":"Sprites","order":5,"path":"folders/Sprites.yy",},
+    {"name":"Tile Sets","order":13,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":14,"path":"folders/Timelines.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"OLose","order":3,"path":"objects/OLose/OLose.yy",},
+    {"name":"ORule","order":4,"path":"objects/ORule/ORule.yy",},
+    {"name":"OTree","order":1,"path":"objects/OTree/OTree.yy",},
+    {"name":"ScrDefinedContant","order":1,"path":"scripts/ScrDefinedContant/ScrDefinedContant.yy",},
+    {"name":"SpRules","order":3,"path":"sprites/SpRules/SpRules.yy",},
+    {"name":"SpTree","order":1,"path":"sprites/SpTree/SpTree.yy",},
+  ],
+}
